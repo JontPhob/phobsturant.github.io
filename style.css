@@ -52,7 +52,7 @@ menu li:hover {
 
 .hero {
     height: 100vh;
-    background-image: url("Bilder/PhobFood.webp");
+    background-image: url("Bilder/PhobFood.jpg");
     width: auto;
     background-size: cover;
     display: flex;
